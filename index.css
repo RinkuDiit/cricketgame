@@ -1,0 +1,68 @@
+body{
+  padding: 5px;
+}
+.play{
+  width:450px;
+  height:500px ;
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  margin-top: 20px !important;
+  border-radius: 17px;
+  position: relative;
+
+}
+.scrore{
+  font-size: 30px;
+}
+.sss{
+  border-bottom: solid 1px red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.ssss{
+  border-bottom: solid 1px red;
+ 
+  
+}
+.run{
+  height: 50px;
+  width: 50px !important;
+  border-radius: 50%;
+  background-color: blue;
+  text-align: center;
+  float: left;
+  margin: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.run_4{
+  margin-top: 15px;
+}
+.btn_btn{
+  margin: 10px;
+  float: left;
+
+}
+
+.refresh{
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  font-size: 10px !important;
+}
+
+.aftertosspopup {
+  width: 425px !important;
+  height: 150px;
+  background-color: rgb(90, 201, 209);
+  top: 158px;
+  left: 3%;
+  position: absolute;
+  border-radius: 10px;
+ 
+}
